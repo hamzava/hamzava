@@ -30,17 +30,18 @@ Hi, I'm **Hamza**. I am a Virtual Assistant with expertise in streamlining busin
 ## 💼 Experience
 
 ### Virtual Assistant at Medi-Kraft
-- 📄 Creating and managing invoices and bills.
-- 📅 Scheduling meetings for the CEO.
-- ✉️ Engaging with clients via email.
-- 🛎️ Handling customer service inquiries.
+- 📄 Handled the creation and management of invoices and bills.
+- 📅 Organized and scheduled meetings for the CEO.
+- ✉️ Communicated with clients through email to ensure smooth operations.
+- 🛎️ Addressed customer service inquiries to provide timely support.
 
 ### Virtual Assistant at Olynth Ophthalmology
-- 📋 Managing invoicing system.
-- 🌐 Managing website listings.
-- 🗂️ Managing catalog.
-- ✉️ Doing B2B outreach using email marketing.
-- 🔍 Finding potential leads.
+- 📋 Oversaw the invoicing system, ensuring accuracy and timeliness.
+- 🌐 Managed and updated website listings to reflect current offerings.
+- 🗂️ Maintained and organized the product catalog for easy access.
+- ✉️ Conducted B2B outreach using email marketing strategies.
+- 🔍 Researched and identified potential leads for business growth.
+
 
 - **🏠 Virtual Assistant for Real Estate Agents**  
   Managed day-to-day operations for several real estate agents in Australia, UK, and Canada, including handling property listings, scheduling appointments, and generating leads.
