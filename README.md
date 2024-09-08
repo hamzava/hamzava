@@ -43,7 +43,7 @@ Hi, I'm **Hamza**. I am a Virtual Assistant with expertise in streamlining busin
 - 🔍 Researched and identified potential leads for business growth.
 
 
-- **🏠 Virtual Assistant for Real Estate Agents**  
+### 🏠 Virtual Assistant for Real Estate Agents**  
   Managed day-to-day operations for several real estate agents in Australia, UK, and Canada, including handling property listings, scheduling appointments, and generating leads.
 
 ## 📞 Contact Me
