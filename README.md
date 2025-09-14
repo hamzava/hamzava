@@ -1,56 +1,59 @@
-# 💼 Virtual Assistant Portfolio
+# 👋 Hi, I’m Hamza  
 
-## 👋 About Me
+🎓 I’m a **Graduate Electrical and Electronic Engineer** from the **University of South Wales (UK)**.  
+⚡ My passion lies in **Embedded Systems and Hardware Design** — I enjoy turning raw ideas into working prototypes and pushing hardware to solve real-world problems.  
+🌍 I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.  
 
-Hi, I'm **Hamza**. I am a Virtual Assistant with expertise in streamlining business operations, providing administrative support, and improving workflow efficiency. I ensure my clients can focus on their core objectives while I handle the rest. 💪
+---
 
-## 🛠️ Skills & Services
+## 🌟 About Me  
 
-- **📧 Administrative Support**  
-  Efficient email management, scheduling, and general administrative tasks.
-  
-- **🗣️ Client Communication**  
-  Professional communication with clients, handling inquiries, and building rapport.
-  
-- **📊 Data Entry & Management**  
-  Accurate data entry and management, ensuring data integrity and accessibility.
-  
-- **📱 Social Media Management**  
-  Scheduling posts, managing content, and engaging with followers on platforms like Instagram, Facebook, and TikTok.
+- 🛠️ I specialize in **Embedded Control and Hardware Design**.  
+- 🚀 I’ve worked on projects ranging from **assistive devices for the visually impaired** to **custom BLDC motor drivers**.  
+- 💡 I enjoy **building under constraints** — budget, time, or component limitations — because they push creativity.  
+- 🌱 Always learning, always improving, and always ready to collaborate on exciting challenges.  
 
-- **🏠 Real Estate Virtual Assistant**  
-  Managing listings, scheduling showings, coordinating with buyers, and generating leads for real estate agents.
+---
 
-## ⚙️ Tools I Use
+## 🔧 Skills  
 
-- 💻 Microsoft Office (Word, Excel, PowerPoint)
-- 🌐 Google Workspace (Docs, Sheets, Calendar)
-- ✉️ Email Marketing (Mailchimp)
+- **Embedded Systems and Hardware**: STM32, Arduino, Renesas RX63N, UART, SPI, I2C  
+- **Electronics Design**: Proteus, LTSpice, KiCad, Simulink, NI Multisim
+- **Programming**: Embedded C, C++, Python, MATLAB  
 
-## 💼 Experience
+---
 
-### Virtual Assistant at Medi-Kraft
-- 📄 Handled the creation and management of invoices and bills.
-- 📅 Organized and scheduled meetings for the CEO.
-- ✉️ Communicated with clients through email to ensure smooth operations.
-- 🛎️ Addressed customer service inquiries to provide timely support.
+## 📂 Featured Projects  
 
-### Virtual Assistant at Olynth Ophthalmology
-- 📋 Oversaw the invoicing system, ensuring accuracy and timeliness.
-- 🌐 Managed and updated website listings to reflect current offerings.
-- 🗂️ Maintained and organized the product catalog for easy access.
-- ✉️ Conducted B2B outreach using email marketing strategies.
-- 🔍 Researched and identified potential leads for business growth.
+### 🦯 Smart Stick for Visually Impaired  
+Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **GPS + GSM module** for emergency alerts.  
+🔗 [Repository](https://github.com/hamzava/smart-stick-for-visually-impaired) | [📺 Demo Video](https://youtube.com/shorts/r47kOy3oFZc?feature=share)  
 
+---
 
-### 🏠 Virtual Assistant for Real Estate Agents  
-  Managed day-to-day operations for several real estate agents in Australia, UK, and Canada, including handling property listings, scheduling appointments, and generating leads.
+### 🔒 Multi-Purpose Fingerprint Lock  
+Budget-conscious prototype using **Arduino, fingerprint sensor, and solenoid lock**. Designed under **£100**, built for secure yet affordable access control.  
+🔗 [Repository](https://github.com/hamzava/multi-purpose-fingerprint-lock)  
 
-## 📞 Contact Me
+---
 
-Feel free to reach out for more information or to discuss how I can assist you in growing your business.
+### 🔋 Fixed DC Supply for Titanium Anodizing *(Work in Progress)* 
+Custom **regulated DC power supply** designed for **titanium anodizing applications**, where stable voltage is critical for oxide layer formation and coloring.  
+- Fixed DC output with SPI LED display.  
+- Built under **time and budget constraints**.  
+- Potential extension to other **electrochemical processes**.  
 
-- **📧 Email:** hamza26afzal@gmail.com
+---
+
+### ⚡ BLDC Motor Driver *(Work in Progress)*  
+Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and planned **Six Step Commutation** implementation.  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamzaafzalv/)  
+- ✉️ Email: hamza26afzal@gmail.com 
 
 ---
 
