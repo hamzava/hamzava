@@ -17,14 +17,14 @@
 
 ## 🔧 Skills  
 
--🔷 **Microcontrollers:** ESP32, STM32, Arduino (Nano, UNO, Mega).
--🔷 **Programming Languages**: C, Embedded C, C++, Python.
--🔷 **Communication Protocols**: I2C, SPI, UART.
--🔷 **Sensors**: BME280, LTR390, AHT20, HC-SR04.
--🔷 **PCB Design**: KiCAD, EasyEDA – Schematic Capture, Multi-Layer Layout, Prototyping.
--🔷 **Embedded Toolchains & IDE**: ESP-IDF, Arduino IDE, STM32CubeIDE.
--🔷 **Displays**: OLED (SSD1306).
--🔷 **GSM/GPS Modules**: SIM800L, Ublox NEO-6M.
+- 🔷 **Microcontrollers:** ESP32, STM32, Arduino (Nano, UNO, Mega).
+- 🔷 **Programming Languages**: C, Embedded C, C++, Python.
+- 🔷 **Communication Protocols**: I2C, SPI, UART.
+- 🔷 **Sensors**: BME280, LTR390, AHT20, HC-SR04.
+- 🔷 **PCB Design**: KiCAD, EasyEDA – Schematic Capture, Multi-Layer Layout, Prototyping.
+- 🔷 **Embedded Toolchains & IDE**: ESP-IDF, Arduino IDE, STM32CubeIDE.
+- 🔷 **Displays**: OLED (SSD1306).
+- 🔷 **GSM/GPS Modules**: SIM800L, Ublox NEO-6M.
 
 ---
 
