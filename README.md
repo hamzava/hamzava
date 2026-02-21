@@ -33,6 +33,8 @@
 ### 🌦 ESP-32 based Environment Monitor
 A robust device equipped with **sensors** like **BME280** & **LTR390** to **sense**, **retrieve** and **store** *environment data* for monitoring purposes.
 
+---
+
 ### 🦯 Smart Stick for Visually Impaired Prototype
 Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **GPS + GSM module** for emergency alerts.  
 🔗 [Repository](https://github.com/hamzava/smart-stick-for-visually-impaired) | [📺 Demo Video](https://youtube.com/shorts/r47kOy3oFZc?feature=share)  
