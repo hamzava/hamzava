@@ -47,8 +47,9 @@ Budget-conscious prototype using **Arduino, fingerprint sensor, and solenoid loc
 
 ---
 
-### ⚡ BLDC Motor Driver *(Work in Progress)*  
+### ⚡ BLDC Motor Driver 
 Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and planned **Six Step Commutation** implementation.  
+🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
 
 ---
 
