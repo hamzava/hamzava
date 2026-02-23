@@ -31,12 +31,18 @@
 ## 📂 Featured Projects  
 
 ### 🌦 ESP-32 based Environment Monitor
-A robust device equipped with **sensors** like **BME280** & **LTR390** to **sense**, **retrieve** and **store** *environment data* for monitoring purposes.
+A robust device equipped with **sensors** like **BME280** & **LTR390** to **sense**, **retrieve** and **store** *environment data* using **ESP-IDF** for monitoring purposes.
+
+---
+
+### ⚡ BLDC Motor Driver 
+Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and planned **Six Step Commutation** implementation.  
+🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
 
 ---
 
 ### 🦯 Smart Stick for Visually Impaired Prototype
-Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **GPS + GSM module** for emergency alerts.  
+Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **NEO-6M GPS + SIM800L GSM module** for emergency alerts.  
 🔗 [Repository](https://github.com/hamzava/smart-stick-for-visually-impaired) | [📺 Demo Video](https://youtube.com/shorts/r47kOy3oFZc?feature=share)  
 
 ---
@@ -44,12 +50,6 @@ Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **G
 ### 🔒 Multi-Purpose Fingerprint Lock Prototype
 Budget-conscious prototype using **Arduino, fingerprint sensor, and solenoid lock**. Designed under **£100**, built for secure yet affordable access control.  
 🔗 [Repository](https://github.com/hamzava/multi-purpose-fingerprint-lock)  
-
----
-
-### ⚡ BLDC Motor Driver 
-Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and planned **Six Step Commutation** implementation.  
-🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
 
 ---
 
