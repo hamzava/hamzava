@@ -25,6 +25,7 @@
 - 🔷 **Embedded Toolchains & IDE**: ESP-IDF, Arduino IDE, STM32CubeIDE.
 - 🔷 **Displays**: OLED (SSD1306).
 - 🔷 **GSM/GPS Modules**: SIM800L, Ublox NEO-6M.
+- 🔷 **Productivity**: Microsoft Office, Git
 
 ---
 
