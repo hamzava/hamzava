@@ -32,6 +32,7 @@
 
 ### 🌦 ESP-32 based Environment Monitor
 A robust device equipped with **sensors** like **BME280** & **LTR390** to **sense**, **retrieve** and **store** *environment data* using **ESP-IDF** for monitoring purposes.
+🔗 [Repository](https://github.com/hamzava/esp32-environment-monitor/tree/main)  
 
 ---
 
