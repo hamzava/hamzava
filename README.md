@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Hamza  
 
 🎓 I’m a **M.Sc Electronics & IT student** at the **University of South Wales (UK)**.  
-⚡ My passion lies in **Embedded Systems Design** — I enjoy turning raw ideas into working prototypes by bridging hardware and software to solve real-world problems.  
-🌍 I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.  
+My passion lies in **Embedded Systems Design**, I enjoy turning raw ideas into working prototypes by bridging hardware and software to solve real-world        problems.  
+I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.  
 
 - 🔷 Click [here](https://drive.google.com/file/d/1u6fYrVMAI20I8V_AL5KjkegDH4VBQDmn/view?usp=drive_link) for my **CV**
 ---
