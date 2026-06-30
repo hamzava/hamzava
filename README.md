@@ -45,7 +45,7 @@ Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and pl
 ---
 
 ### ⚡ High Torque FOC Based Actuator Driver - (WiP exp. Aug 2026)
-Actuator driver with **STM32 based FOC & Motion Control**, **TMC6200 Gate Driver**, & **Magnetic Encoder for Close Loop Control**.
+Actuator driver with **STM32 based FOC & Motion Control**, **TMC6200 Gate Driver**, & **Magnetic Encoder for Close Loop Control** .
 🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
 
 ---
