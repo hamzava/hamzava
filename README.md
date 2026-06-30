@@ -44,6 +44,12 @@ Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and pl
 
 ---
 
+### ⚡ High Torque FOC Based Actuator Driver (Work in Progress)
+Actuator driver with **STM32 based FOC & Motion Control**, **TMC6200 Gate Driver**, & **Magnetic Encoder for Close Loop Control**.
+🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
+
+---
+
 ### 🦯 Smart Stick for Visually Impaired Prototype
 Assistive device with **ultrasonic obstacle detection**, **SOS button**, and **NEO-6M GPS + SIM800L GSM module** for emergency alerts.  
 🔗 [Repository](https://github.com/hamzava/smart-stick-for-visually-impaired) | [📺 Demo Video](https://youtube.com/shorts/r47kOy3oFZc?feature=share)  
