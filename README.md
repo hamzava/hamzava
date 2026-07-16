@@ -1,9 +1,10 @@
 # 👋 Hi, I’m Hamza  
 
-🎓 I’m a **M.Sc Electronics & IT student** at the **University of South Wales (UK)**.  
-My passion lies in **Embedded Systems Design**, I enjoy turning raw ideas into working prototypes by bridging hardware and software to solve real-world        problems.  
-I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.  
----
+🎓 I’m a **M.Sc Electronics & IT student** at the **University of South Wales (UK)**.
+
+My passion lies in **Embedded Systems Design**. I enjoy turning raw ideas into working prototypes by bridging hardware and software to solve real-world problems.
+
+I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.
 
 ## 🌟 About Me  
 
@@ -38,7 +39,7 @@ Three-phase driver with **STM32 PWM control**, **MOSFET & Gate drivers**, and pl
 ---
 
 ### ⚡ High Torque FOC Based Actuator Driver - (WiP exp. Aug 2026)
-Actuator driver with **STM32 based FOC & Motion Control**, **TMC6200 Gate Driver**, & **Magnetic Encoder for Close Loop Control** .
+Actuator driver with **STM32 based FOC & Motion Control**, **TMC6200 Gate Driver**, & **Magnetic Encoder for Close Loop Control** .<br>  
 🔗 [Repository](https://github.com/hamzava/stm32-bldc-drive)  
 
 ---
