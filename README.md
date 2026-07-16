@@ -3,8 +3,6 @@
 🎓 I’m a **M.Sc Electronics & IT student** at the **University of South Wales (UK)**.  
 My passion lies in **Embedded Systems Design**, I enjoy turning raw ideas into working prototypes by bridging hardware and software to solve real-world        problems.  
 I was raised with a strong respect for tradition but I think forward, blending engineering fundamentals with innovative design.  
-
-- 🔷 Click [here](https://drive.google.com/file/d/1u6fYrVMAI20I8V_AL5KjkegDH4VBQDmn/view?usp=drive_link) for my **CV**
 ---
 
 ## 🌟 About Me  
@@ -18,16 +16,11 @@ I was raised with a strong respect for tradition but I think forward, blending e
 
 ## 🔧 Skills  
 
-- 🔷 **Microcontrollers:** ESP32, STM32, Arduino (Nano, UNO, Mega).
-- 🔷 **Programming Languages**: C, Embedded C, C++, Python.
-- 🔷 **Communication Protocols**: I2C, SPI, UART.
-- 🔷 **Sensors**: BME280, LTR390, AHT20, HC-SR04.
-- 🔷 **PCB Design**: KiCAD, EasyEDA – Schematic Capture, Multi-Layer Layout, Prototyping.
-- 🔷 **Embedded Toolchains & IDE**: ESP-IDF, Arduino IDE, STM32CubeIDE.
-- 🔷 **Displays**: OLED (SSD1306).
-- 🔷 **GSM/GPS Modules**: SIM800L, Ublox NEO-6M.
-- 🔷 **Productivity**: Microsoft Office, Git
-
+- 🔷 **Embedded Systems and Hardware:** STM32, ESP-32, Renesas RX-63N, ATMega328, Raspberry Pi, ROS2
+- 🔷 **Communication Protocols:** UART, I2C, SPI, ABN, CAN, FD-CAN, CANOpen (CiA 402)
+- 🔷 **Electronics Design:** Proteus, LTSpice, KiCad, Simulink, NI Multisim, Altium Designer, SkyCAD
+- 🔷 **Programming / Frameworks:** Embedded C, C++, ESP-IDF, MATLAB, Linux
+- 🔷 **Productivity:** Microsoft Office, Git, Jira, Confluence
 ---
 
 ## 📂 Featured Projects  
